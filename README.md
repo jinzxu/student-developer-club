@@ -3,7 +3,7 @@ Developed by Jason Xu (jinzxu@ucalgary.ca)
 
 Technical Stack: HTML/CSS/Javascript, React, Express.js, MongoDB, Node.js
 
-Deployed website: [https://jinzxu.github.io/lite-kudosboard-app/](https://student-developer-club.herokuapp.com/)
+Deployed website: https://student-developer-club.herokuapp.com/
 
 Brief description: this app creates a network for computer science students to do networking and learn from each other
 
