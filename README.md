@@ -1,4 +1,4 @@
-# lite-kudosboard-app
+# student-developer-club
 Developed by Jason Xu (jinzxu@ucalgary.ca)
 
 Technical Stack: HTML/CSS/Javascript, React, Express.js, MongoDB, Node.js
